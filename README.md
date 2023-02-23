@@ -17,7 +17,7 @@
                                           
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardoamorim/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprsilva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprsilva@gmail.com?subject=Vaga%20de%20est%C3%A1gio%20&body=Ol%C3%A1%20Paulo%2C%20Tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA%20sobre%20um%20oportunidade%20de%20est%C3%A1gio)
 
 
 
