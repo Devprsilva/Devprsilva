@@ -6,6 +6,7 @@
 ⚬ 💻Sistemas Para Internet - 2/5
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Devprsilva&show_icons=true&theme=merko&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devprsilva&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
