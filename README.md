@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo Ricardo Amorim 🖐️
 ⚬ 👨‍💻Embusca de uma oportunidade de estágio
 
-⚬ 📖Estudando HTML | CSS | Js
+⚬ 📖Estudando HTML | CSS | JS
 
 ⚬ 💻Sistemas Para Internet - 2/5
 
