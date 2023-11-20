@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Paulo Ricardo Amorim 🖐️
 ⚬ 👨‍💻Embusca de uma oportunidade de estágio
 
-⚬ 📖Estudando HTML | CSS | JS
+⚬ 📖Estudando HTML | CSS | JS | GIT | GITHUB |
 
-⚬ 💻Sistemas Para Internet - 2/5
+⚬ 💻Sistemas Para Internet - 3/5
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Devprsilva&show_icons=true&theme=merko&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devprsilva)](https://github.com/anuraghazra/github-readme-stats)
